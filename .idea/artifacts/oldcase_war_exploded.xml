@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oldcase:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/oldcase_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="oldcase/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="oldcase" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

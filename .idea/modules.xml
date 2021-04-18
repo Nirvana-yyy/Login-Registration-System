@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/caseDemo.iml" filepath="$PROJECT_DIR$/caseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javawebWork/javawebWork.iml" filepath="$PROJECT_DIR$/javawebWork/javawebWork.iml" />
+    </modules>
+  </component>
+</project>
